@@ -1,0 +1,3 @@
+The emacs setup herein requires Cask (http://cask.github.io/installation/).
+
+To get jshint, you will also need to do an ``npm install jshint``
